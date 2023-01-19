@@ -55,7 +55,7 @@ This dataset has 3 files as explained below:
 10. Provide analysis and business insights gained through EDA to business stakeholders.
 
 ## Code Implementation & Presentation Slides
-**Refer jupyter notebook and presentation files in this repository to know more about code implementation and business insights mentioned.**
+**Refer Python jupyter notebook and presentation files present in this repository to know more about code implementation and business insights mentioned.**
 
 ## Contributors
 - [Ganesh Jalakam](https://github.com/GaneshJalakam)
